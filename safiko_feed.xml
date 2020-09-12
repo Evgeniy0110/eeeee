@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dc_catalog SYSTEM "http://www.delivery-club.ru/xml/dc.dtd">
+<dc_catalog last_update="2020-08-17 11:15">
+	<delivery_service>
+		<categories>
+			<category id="1">Пироги</category>
+			<category id="2">Сосусы</category>
+			<category id="3">Напитки</category>
+		</categories>
+		<products>
+			<product id="0042">
+				<category_id>1</category_id>
+				<name>Традиционный осетинский пирог с сыром 1 кг</name>
+				<description>Состав: Сыр, соль</description>
+				<weight>1000</weight>
+				<energy>220</energy>
+				<price>450</price>
+				<picture>https://static.tildacdn.com/tild3564-3665-4135-a338-646430306665/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild6463-6335-4238-b764-636638386136/AQ0C2739.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3964-6233-4364-b532-363133643734/AQ0C2743.jpg</picture>
+			</product>
+			<product id="0043">
+				<category_id>1</category_id>
+				<name>Традиционный осетинский пирог с сыром 1.2 кг</name>
+				<description>Состав: Сыр, соль</description>
+				<weight>1200</weight>
+				<energy>220</energy>
+				<price>500</price>
+				<picture>https://static.tildacdn.com/tild3564-3665-4135-a338-646430306665/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild6463-6335-4238-b764-636638386136/AQ0C2739.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3964-6233-4364-b532-363133643734/AQ0C2743.jpg</picture>
+			</product>
+			<product id="0071">
+				<category_id>1</category_id>
+				<name>Осетинский пирог с картофелем и сыром 800 г</name>
+				<description>Состав: Сыр, картофель, соль</description>
+				<weight>800</weight>
+				<energy>200</energy>
+				<price>300</price>
+				<picture>https://static.tildacdn.com/tild3966-6566-4562-b763-663035373535/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3464-3338-4766-a532-363137363730/AQ0C2719.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3332-6637-4031-b938-633566633338/AQ0C2728.jpg</picture>
+			</product>
+			<product id="0072">
+				<category_id>1</category_id>
+				<name>Осетинский пирог с картофелем и сыром 1 кг</name>
+				<description>Состав: Сыр, картофель, соль</description>
+				<weight>1000</weight>
+				<energy>200</energy>
+				<price>400</price>
+				<picture>https://static.tildacdn.com/tild3966-6566-4562-b763-663035373535/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3464-3338-4766-a532-363137363730/AQ0C2719.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3332-6637-4031-b938-633566633338/AQ0C2728.jpg</picture>
+			</product>
+			<product id="0073">
+				<category_id>1</category_id>
+				<name>Осетинский пирог с картофелем и сыром 1.2 кг</name>
+				<description>Состав: Сыр, картофель, соль</description>
+				<weight>1200</weight>
+				<energy>200</energy>
+				<price>500</price>
+				<picture>https://static.tildacdn.com/tild3966-6566-4562-b763-663035373535/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3464-3338-4766-a532-363137363730/AQ0C2719.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3332-6637-4031-b938-633566633338/AQ0C2728.jpg</picture>
+			</product>
+			<product id="0091">
+				<category_id>1</category_id>
+				<name>Осетинский пирог с тыквой 800 г</name>
+				<description>Состав: Тыква, Жареный лук, Соль, Сахар, Перец черный</description>
+				<weight>800</weight>
+				<energy>220</energy>
+				<price>300</price>
+				<picture>https://static.tildacdn.com/tild3062-3631-4339-b732-396436316366/5.jpg</picture>
+			</product>
+			<product id="0092">
+				<category_id>1</category_id>
+				<name>Осетинский пирог с тыквой 1 кг</name>
+				<description>Состав: Тыква, Жареный лук, Соль, Сахар, Перец черный</description>
+				<weight>1000</weight>
+				<energy>220</energy>
+				<price>400</price>
+				<picture>https://static.tildacdn.com/tild3062-3631-4339-b732-396436316366/5.jpg</picture>
+			</product>
+			<product id="0093">
+				<category_id>1</category_id>
+				<name>Осетинский пирог с тыквой 1.2 кг</name>
+				<description>Состав: Тыква, Жареный лук, Соль, Сахар, Перец черный</description>
+				<weight>1200</weight>
+				<energy>220</energy>
+				<price>450</price>
+				<picture>https://static.tildacdn.com/tild3062-3631-4339-b732-396436316366/5.jpg</picture>
+			</product>
+			<product id="0121">
+				<category_id>1</category_id>
+				<name>Осетинский пирог с капустой 800 г</name>
+				<description>Состав: Капуста, Жареный лук, Соль, Сахар, Перец черный</description>
+				<weight>800</weight>
+				<energy>148</energy>
+				<price>300</price>
+				<picture>https://static.tildacdn.com/tild6566-3563-4663-b331-313732643235/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3563-6431-4266-b262-313266666662/AQ0C2827.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3733-3164-4565-a563-613334353834/AQ0C2816.jpg</picture>
+			</product>
+			<product id="0122">
+				<category_id>1</category_id>
+				<name>Осетинский пирог с капустой 1 кг</name>
+				<description>Состав: Капуста, Жареный лук, Соль, Сахар, Перец черный</description>
+				<weight>1000</weight>
+				<energy>148</energy>
+				<price>400</price>
+				<picture>https://static.tildacdn.com/tild6566-3563-4663-b331-313732643235/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3563-6431-4266-b262-313266666662/AQ0C2827.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3733-3164-4565-a563-613334353834/AQ0C2816.jpg</picture>
+			</product>
+			<product id="0123">
+				<category_id>1</category_id>
+				<name>Осетинский пирог с капустой 1.2 кг</name>
+				<description>Состав: Капуста, Жареный лук, Соль, Сахар, Перец черный</description>
+				<weight>1200</weight>
+				<energy>148</energy>
+				<price>450</price>
+				<picture>https://static.tildacdn.com/tild6566-3563-4663-b331-313732643235/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3563-6431-4266-b262-313266666662/AQ0C2827.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3733-3164-4565-a563-613334353834/AQ0C2816.jpg</picture>
+			</product>
+			<product id="0111">
+				<category_id>1</category_id>
+				<name>Осетинский пирог с картофелем и луком 800 г</name>
+				<description>Состав: Картофель, Жареный лук, Перец черный, Соль</description>
+				<weight>800</weight>
+				<energy>200</energy>
+				<price>300</price>
+				<picture>https://static.tildacdn.com/tild3334-3737-4139-b063-393938656136/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild6565-3135-4065-b537-663339643736/AQ0C2795.jpg</picture>
+				<picture>https://static.tildacdn.com/tild6362-3038-4666-a436-646430373138/AQ0C2804.jpg</picture>
+			</product>
+			<product id="0112">
+				<category_id>1</category_id>
+				<name>Осетинский пирог с картофелем и луком 1 кг</name>
+				<description>Состав: Картофель, Жареный лук, Перец черный, Соль</description>
+				<weight>1000</weight>
+				<energy>200</energy>
+				<price>400</price>
+				<picture>https://static.tildacdn.com/tild3334-3737-4139-b063-393938656136/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild6565-3135-4065-b537-663339643736/AQ0C2795.jpg</picture>
+				<picture>https://static.tildacdn.com/tild6362-3038-4666-a436-646430373138/AQ0C2804.jpg</picture>
+			</product>
+			<product id="0113">
+				<category_id>1</category_id>
+				<name>Осетинский пирог с картофелем и луком 1.2 кг</name>
+				<description>Состав: Картофель, Жареный лук, Перец черный, Соль</description>
+				<weight>1200</weight>
+				<energy>200</energy>
+				<price>450</price>
+				<picture>https://static.tildacdn.com/tild3334-3737-4139-b063-393938656136/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild6565-3135-4065-b537-663339643736/AQ0C2795.jpg</picture>
+				<picture>https://static.tildacdn.com/tild6362-3038-4666-a436-646430373138/AQ0C2804.jpg</picture>
+			</product>
+			<product id="0051">
+				<category_id>1</category_id>
+				<name>Осетинский пирог с сыром и зеленым луком 800 г</name>
+				<description>Состав: Сыр, зеленый лук, соль</description>
+				<weight>800</weight>
+				<energy>180</energy>
+				<price>350</price>
+				<picture>https://static.tildacdn.com/tild3839-6266-4131-b331-363934336439/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3534-6231-4437-b537-633730393232/AQ0C2754.jpg</picture>
+				<picture>https://static.tildacdn.com/tild6430-6565-4234-b362-663035353531/AQ0C2755.jpg</picture>
+			</product>
+			<product id="0052">
+				<category_id>1</category_id>
+				<name>Осетинский пирог с сыром и зеленым луком 1 кг</name>
+				<description>Состав: Сыр, зеленый лук, соль</description>
+				<weight>1000</weight>
+				<energy>180</energy>
+				<price>450</price>
+				<picture>https://static.tildacdn.com/tild3839-6266-4131-b331-363934336439/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3534-6231-4437-b537-633730393232/AQ0C2754.jpg</picture>
+				<picture>https://static.tildacdn.com/tild6430-6565-4234-b362-663035353531/AQ0C2755.jpg</picture>
+			</product>
+			<product id="0053">
+				<category_id>1</category_id>
+				<name>Осетинский пирог с сыром и зеленым луком 1.2 кг</name>
+				<description>Состав: Сыр, зеленый лук, соль</description>
+				<weight>1200</weight>
+				<energy>180</energy>
+				<price>500</price>
+				<picture>https://static.tildacdn.com/tild3839-6266-4131-b331-363934336439/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3534-6231-4437-b537-633730393232/AQ0C2754.jpg</picture>
+				<picture>https://static.tildacdn.com/tild6430-6565-4234-b362-663035353531/AQ0C2755.jpg</picture>
+			</product>
+			<product id="0021">
+				<category_id>1</category_id>
+				<name>Пирог из курицы с сыром 500 г</name>
+				<description>Состав: Курица, Соль, Перец черный, Перец красный, Кинза, Лук репчатый, Сыр</description>
+				<weight>500</weight>
+				<energy>210</energy>
+				<price>250</price>
+				<picture>https://static.tildacdn.com/tild3766-6233-4135-b931-356261343430/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3365-3238-4830-a138-326664373538/AQ0C2705.jpg</picture>
+				<picture>https://static.tildacdn.com/tild6166-3036-4139-b135-363538346236/AQ0C2700.jpg</picture>
+			</product>
+			<product id="0022">
+				<category_id>1</category_id>
+				<name>Пирог из курицы с сыром 700 г</name>
+				<description>Состав: Курица, Соль, Перец черный, Перец красный, Кинза, Лук репчатый, Сыр</description>
+				<weight>700</weight>
+				<energy>210</energy>
+				<price>350</price>
+				<picture>https://static.tildacdn.com/tild3766-6233-4135-b931-356261343430/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3365-3238-4830-a138-326664373538/AQ0C2705.jpg</picture>
+				<picture>https://static.tildacdn.com/tild6166-3036-4139-b135-363538346236/AQ0C2700.jpg</picture>
+			</product>
+			<product id="0023">
+				<category_id>1</category_id>
+				<name>Пирог из курицы с сыром 1 кг</name>
+				<description>Состав: Курица, Соль, Перец черный, Перец красный, Кинза, Лук репчатый, Сыр</description>
+				<weight>1000</weight>
+				<energy>210</energy>
+				<price>450</price>
+				<picture>https://static.tildacdn.com/tild3766-6233-4135-b931-356261343430/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3365-3238-4830-a138-326664373538/AQ0C2705.jpg</picture>
+				<picture>https://static.tildacdn.com/tild6166-3036-4139-b135-363538346236/AQ0C2700.jpg</picture>
+			</product>
+			<product id="0024">
+				<category_id>1</category_id>
+				<name>Пирог из курицы с сыром 1.2 кг</name>
+				<description>Состав: Курица, Соль, Перец черный, Перец красный, Кинза, Лук репчатый, Сыр</description>
+				<weight>1200</weight>
+				<energy>210</energy>
+				<price>550</price>
+				<picture>https://static.tildacdn.com/tild3766-6233-4135-b931-356261343430/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3365-3238-4830-a138-326664373538/AQ0C2705.jpg</picture>
+				<picture>https://static.tildacdn.com/tild6166-3036-4139-b135-363538346236/AQ0C2700.jpg</picture>
+			</product>
+			<product id="0011">
+				<category_id>1</category_id>
+				<name>Пирог с говядиной 500 г</name>
+				<description>Состав: Говядина, Соль, Перец черный, Перец красный, Кинза, Лук репчатый, Вода, Жир говяжий, Чеснок</description>
+				<weight>500</weight>
+				<energy>210</energy>
+				<price>250</price>
+				<picture>https://static.tildacdn.com/tild6633-6432-4764-b536-353663323463/AQ0C2649.jpg</picture>
+			</product>
+			<product id="0012">
+				<category_id>1</category_id>
+				<name>Пирог с говядиной 700 г</name>
+				<description>Состав: Говядина, Соль, Перец черный, Перец красный, Кинза, Лук репчатый, Вода, Жир говяжий, Чеснок</description>
+				<weight>700</weight>
+				<energy>210</energy>
+				<price>350</price>
+				<picture>https://static.tildacdn.com/tild6633-6432-4764-b536-353663323463/AQ0C2649.jpg</picture>
+			</product>
+			<product id="0013">
+				<category_id>1</category_id>
+				<name>Пирог с говядиной 1 кг</name>
+				<description>Состав: Говядина, Соль, Перец черный, Перец красный, Кинза, Лук репчатый, Вода, Жир говяжий, Чеснок</description>
+				<weight>1000</weight>
+				<energy>210</energy>
+				<price>450</price>
+				<picture>https://static.tildacdn.com/tild6633-6432-4764-b536-353663323463/AQ0C2649.jpg</picture>
+			</product>
+			<product id="0014">
+				<category_id>1</category_id>
+				<name>Пирог с говядиной 1.2 кг</name>
+				<description>Состав: Говядина, Соль, Перец черный, Перец красный, Кинза, Лук репчатый, Вода, Жир говяжий, Чеснок</description>
+				<weight>1200</weight>
+				<energy>210</energy>
+				<price>550</price>
+				<picture>https://static.tildacdn.com/tild6633-6432-4764-b536-353663323463/AQ0C2649.jpg</picture>
+			</product>
+			<product id="0101">
+				<category_id>1</category_id>
+				<name>Осетинский пирог с картофелем и зеленью 800 г</name>
+				<description>Состав: Картофель, Лук зеленый, Укроп, Перец черный, Кинза</description>
+				<weight>800</weight>
+				<energy>220</energy>
+				<price>300</price>
+				<picture>https://static.tildacdn.com/tild3065-3931-4665-a134-616361376632/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3466-3930-4265-a233-396561323461/AQ0C2780.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3865-6536-4439-b232-653563613564/AQ0C2785.jpg</picture>
+			</product>
+			<product id="0102">
+				<category_id>1</category_id>
+				<name>Осетинский пирог с картофелем и зеленью 1 кг</name>
+				<description>Состав: Картофель, Лук зеленый, Укроп, Перец черный, Кинза</description>
+				<weight>1000</weight>
+				<energy>220</energy>
+				<price>400</price>
+				<picture>https://static.tildacdn.com/tild3065-3931-4665-a134-616361376632/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3466-3930-4265-a233-396561323461/AQ0C2780.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3865-6536-4439-b232-653563613564/AQ0C2785.jpg</picture>
+			</product>
+			<product id="0103">
+				<category_id>1</category_id>
+				<name>Осетинский пирог с картофелем и зеленью 1.2 кг</name>
+				<description>Состав: Картофель, Лук зеленый, Укроп, Перец черный, Кинза</description>
+				<weight>1200</weight>
+				<energy>220</energy>
+				<price>450</price>
+				<picture>https://static.tildacdn.com/tild3065-3931-4665-a134-616361376632/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3466-3930-4265-a233-396561323461/AQ0C2780.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3865-6536-4439-b232-653563613564/AQ0C2785.jpg</picture>
+			</product>
+			<product id="0161">
+				<category_id>1</category_id>
+				<name>Пирог с яблоком и корицей 800 г</name>
+				<description>Состав: Яблоки, сахар, корица</description>
+				<weight>800</weight>
+				<energy>220</energy>
+				<price>400</price>
+				<picture>https://static.tildacdn.com/tild3034-3764-4037-a161-336534656365/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3836-3363-4237-b161-616137653039/AQ0C2560.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3531-6630-4666-b337-383839313435/AQ0C2563.jpg</picture>
+			</product>
+			<product id="0162">
+				<category_id>1</category_id>
+				<name>Пирог с яблоком и корицей 1.2 кг</name>
+				<description>Состав: Яблоки, сахар, корица</description>
+				<weight>1200</weight>
+				<energy>220</energy>
+				<price>600</price>
+				<picture>https://static.tildacdn.com/tild3034-3764-4037-a161-336534656365/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3836-3363-4237-b161-616137653039/AQ0C2560.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3531-6630-4666-b337-383839313435/AQ0C2563.jpg</picture>
+			</product>
+			<product id="0131">
+				<category_id>1</category_id>
+				<name>Пирог с яблоком и клюквой 800 г</name>
+				<description>Состав: Яблоки, клюква, сахар</description>
+				<weight>800</weight>
+				<energy>120</energy>
+				<price>400</price>
+				<picture>https://static.tildacdn.com/tild3531-3064-4532-a434-626438396133/AQ0C2539.jpg</picture>
+			</product>
+			<product id="0132">
+				<category_id>1</category_id>
+				<name>Пирог с яблоком и клюквой 1.2 кг</name>
+				<description>Состав: Яблоки, клюква, сахар</description>
+				<weight>1200</weight>
+				<energy>120</energy>
+				<price>600</price>
+				<picture>https://static.tildacdn.com/tild3531-3064-4532-a434-626438396133/AQ0C2539.jpg</picture>
+			</product>
+			<product id="0141">
+				<category_id>1</category_id>
+				<name>Пирог с творогом и вишней 800 г</name>
+				<description>Состав: Яблоки, сахар</description>
+				<weight>800</weight>
+				<energy>129</energy>
+				<price>400</price>
+				<picture>https://static.tildacdn.com/tild3666-6365-4932-b739-333230363162/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild6265-3139-4565-a636-353030336233/AQ0C2584.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3938-6431-4637-b133-626639346131/AQ0C2593.jpg</picture>
+			</product>
+			<product id="0142">
+				<category_id>1</category_id>
+				<name>Пирог с творогом и вишней 1.2 кг</name>
+				<description>Состав: Яблоки, сахар</description>
+				<weight>1200</weight>
+				<energy>129</energy>
+				<price>600</price>
+				<picture>https://static.tildacdn.com/tild3666-6365-4932-b739-333230363162/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild6265-3139-4565-a636-353030336233/AQ0C2584.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3938-6431-4637-b133-626639346131/AQ0C2593.jpg</picture>
+			</product>
+			<product id="0201">
+				<category_id>1</category_id>
+				<name>Осетинский пирог с фасолью 800 г</name>
+				<description>Состав: Фасоль, Жареный лук, Перец черный, Кинза</description>
+				<weight>800</weight>
+				<energy>290</energy>
+				<price>300</price>
+				<picture>https://static.tildacdn.com/tild3062-3337-4664-b230-333436316131/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3631-3162-4663-a165-393363363036/AQ0C2836.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3833-3830-4630-a366-326632363761/AQ0C2840.jpg</picture>
+			</product>
+			<product id="0202">
+				<category_id>1</category_id>
+				<name>Осетинский пирог с фасолью 1 кг</name>
+				<description>Состав: Фасоль, Жареный лук, Перец черный, Кинза</description>
+				<weight>1000</weight>
+				<energy>290</energy>
+				<price>400</price>
+				<picture>https://static.tildacdn.com/tild3062-3337-4664-b230-333436316131/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3631-3162-4663-a165-393363363036/AQ0C2836.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3833-3830-4630-a366-326632363761/AQ0C2840.jpg</picture>
+			</product>
+			<product id="0203">
+				<category_id>1</category_id>
+				<name>Осетинский пирог с фасолью 800 г</name>
+				<description>Состав: Фасоль, Жареный лук, Перец черный, Кинза</description>
+				<weight>800</weight>
+				<energy>290</energy>
+				<price>300</price>
+				<picture>https://static.tildacdn.com/tild3062-3337-4664-b230-333436316131/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3631-3162-4663-a165-393363363036/AQ0C2836.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3833-3830-4630-a366-326632363761/AQ0C2840.jpg</picture>
+			</product>
+			<product id="0204">
+				<category_id>1</category_id>
+				<name>Осетинский пирог с фасолью 1.2 кг</name>
+				<description>Состав: Фасоль, Жареный лук, Перец черный, Кинза</description>
+				<weight>1200</weight>
+				<energy>290</energy>
+				<price>450</price>
+				<picture>https://static.tildacdn.com/tild3062-3337-4664-b230-333436316131/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3631-3162-4663-a165-393363363036/AQ0C2836.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3833-3830-4630-a366-326632363761/AQ0C2840.jpg</picture>
+			</product>
+			<product id="0081">
+				<category_id>1</category_id>
+				<name>Пирог с картофелем и грибами 800 г</name>
+				<description>Состав: Картофель, грибы, лук репчатый</description>
+				<weight>800</weight>
+				<energy>200</energy>
+				<price>300</price>
+				<picture>https://static.tildacdn.com/tild3834-3530-4336-b463-366264623835/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3431-3438-4838-b537-376237623866/AQ0C2808.jpg</picture>
+				<picture>https://static.tildacdn.com/tild6236-3431-4965-b732-663164613066/AQ0C2804.jpg</picture>
+			</product>
+			<product id="0082">
+				<category_id>1</category_id>
+				<name>Пирог с картофелем и грибами 1 кг</name>
+				<description>Состав: Картофель, грибы, лук репчатый</description>
+				<weight>1000</weight>
+				<energy>200</energy>
+				<price>400</price>
+				<picture>https://static.tildacdn.com/tild3834-3530-4336-b463-366264623835/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3431-3438-4838-b537-376237623866/AQ0C2808.jpg</picture>
+				<picture>https://static.tildacdn.com/tild6236-3431-4965-b732-663164613066/AQ0C2804.jpg</picture>
+			</product>
+			<product id="0083">
+				<category_id>1</category_id>
+				<name>Пирог с картофелем и грибами 1.2 кг</name>
+				<description>Состав: Картофель, грибы, лук репчатый</description>
+				<weight>1200</weight>
+				<energy>200</energy>
+				<price>450</price>
+				<picture>https://static.tildacdn.com/tild3834-3530-4336-b463-366264623835/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3431-3438-4838-b537-376237623866/AQ0C2808.jpg</picture>
+				<picture>https://static.tildacdn.com/tild6236-3431-4965-b732-663164613066/AQ0C2804.jpg</picture>
+			</product>
+			<product id="0131">
+				<category_id>1</category_id>
+				<name>Пирог с яблоком и клюквой 800 г</name>
+				<description>Состав: Яблоки, сахар, клюква</description>
+				<weight>800</weight>
+				<energy>120</energy>
+				<price>400</price>
+				<picture>https://static.tildacdn.com/tild3137-3133-4136-b433-396135643931/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3261-3938-4664-a165-623863353234/AQ0C2536.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3665-6434-4264-b333-666237386438/AQ0C2535.jpg</picture>
+			</product>
+			<product id="0132">
+				<category_id>1</category_id>
+				<name>Пирог с яблоком и клюквой 1.2 кг</name>
+				<description>Состав: Яблоки, сахар, клюква</description>
+				<weight>1200</weight>
+				<energy>120</energy>
+				<price>600</price>
+				<picture>https://static.tildacdn.com/tild3137-3133-4136-b433-396135643931/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3261-3938-4664-a165-623863353234/AQ0C2536.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3665-6434-4264-b333-666237386438/AQ0C2535.jpg</picture>
+			</product>
+			<product id="0151">
+				<category_id>1</category_id>
+				<name>Пирог с вишней 500 г</name>
+				<description>Состав: Вишня, сахар, крахмал</description>
+				<weight>500</weight>
+				<energy>280</energy>
+				<price>300</price>
+				<picture>https://static.tildacdn.com/tild3964-6637-4139-a563-636135656262/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3039-3034-4738-a333-646131623637/AQ0C2602.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3561-3561-4361-b132-343439306539/AQ0C2604.jpg</picture>
+			</product>
+			<product id="0152">
+				<category_id>1</category_id>
+				<name>Пирог с вишней 800 г</name>
+				<description>Состав: Вишня, сахар, крахмал</description>
+				<weight>800</weight>
+				<energy>280</energy>
+				<price>500</price>
+				<picture>https://static.tildacdn.com/tild3964-6637-4139-a563-636135656262/photo_2020-07-21_15-.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3039-3034-4738-a333-646131623637/AQ0C2602.jpg</picture>
+				<picture>https://static.tildacdn.com/tild3561-3561-4361-b132-343439306539/AQ0C2604.jpg</picture>
+			</product>
+			<product id="0181">
+				<category_id>1</category_id>
+				<name>Пирог с клубникой и творогом 800 г</name>
+				<description>Состав: Творог, клубника, сахар</description>
+				<weight>800</weight>
+				<energy>240</energy>
+				<price>400</price>
+				<picture>https://static.tildacdn.com/tild3231-3961-4662-a232-363934323464/AQ0C2615.jpg</picture>
+			</product>
+			<product id="0182">
+				<category_id>1</category_id>
+				<name>Пирог с клубникой и творогом 1.2 кг</name>
+				<description>Состав: Творог, клубника, сахар</description>
+				<weight>1200</weight>
+				<energy>240</energy>
+				<price>600</price>
+				<picture>https://static.tildacdn.com/tild3231-3961-4662-a232-363934323464/AQ0C2615.jpg</picture>
+			</product>
+			<product id="0281">
+				<category_id>2</category_id>
+				<name>Цахтон</name>
+				<description>Чесночный соус на сметане</description>
+				<weight>100</weight>
+				<energy>137</energy>
+				<price>50</price>
+				<picture>https://static.tildacdn.com/tild3335-3465-4638-b963-316438363536/_____.jpg</picture>
+			</product>
+			<product id="0271">
+				<category_id>2</category_id>
+				<name>Цывзы Цахтон</name>
+				<description>Сметана с листьями перца</description>
+				<weight>100</weight>
+				<energy>120</energy>
+				<price>50</price>
+				<picture>https://static.tildacdn.com/tild6534-6464-4436-a563-306533666463/______.jpg</picture>
+			</product>
+			<product id="0291">
+				<category_id>2</category_id>
+				<name>Сметана</name>
+				<description>Сметана</description>
+				<weight>100</weight>
+				<energy>200</energy>
+				<price>50</price>
+				<picture>https://static.tildacdn.com/tild6330-6163-4537-b966-396638663536/____.jpg</picture>
+			</product>
+			<product id="0301">
+				<category_id>2</category_id>
+				<name>Аджика</name>
+				<description>Аджика</description>
+				<weight>100</weight>
+				<energy>59</energy>
+				<price>50</price>
+				<picture>https://static.tildacdn.com/tild3330-3537-4230-a666-333231313732/_____1.jpg</picture>
+			</product>
+			<product id="0221">
+				<category_id>3</category_id>
+				<name>Лимонад «Бавария-премиум» - груша</name>
+				<volume>0,5</volume>
+				<energy>40</energy>
+				<price>65</price>
+				<picture>https://static.tildacdn.com/tild3033-3930-4464-b763-313266623165/73554520-31df-4c7e-a.jpg</picture>
+			</product>
+			<product id="0222">
+				<category_id>3</category_id>
+				<name>Лимонад «Бавария-премиум» - гранат</name>
+				<volume>0,5</volume>
+				<energy>40</energy>
+				<price>65</price>
+				<picture>https://static.tildacdn.com/tild3134-3763-4337-a337-626236643334/0bb34073-466c-4a31-8.jpg</picture>
+			</product>
+			<product id="0223">
+				<category_id>3</category_id>
+				<name>Лимонад «Бавария-премиум» - тархун</name>
+				<volume>0,5</volume>
+				<energy>40</energy>
+				<price>65</price>
+				<picture>https://static.tildacdn.com/tild3738-3635-4433-b932-356366626566/1c36637c-6112-40d4-9.jpg</picture>
+			</product>
+			<product id="0251">
+				<category_id>3</category_id>
+				<name>Вода «Тбау»</name>
+				<volume>0,5</volume>
+				<price>50</price>
+				<picture>https://static.tildacdn.com/tild3137-6439-4332-a565-333966363439/78a7a102-c040-437a-8.jpg</picture>
+			</product>
+			<product id="0224">
+				<category_id>3</category_id>
+				<name>Лимонад «Бавария-премиум» - лимон</name>
+				<volume>0,5</volume>
+				<energy>40</energy>
+				<price>65</price>
+				<picture>https://static.tildacdn.com/tild3335-3433-4837-a430-623735653865/1.jpg</picture>
+			</product>
+			<product id="0225">
+				<category_id>3</category_id>
+				<name>Лимонад «Бавария» - фейхоа</name>
+				<volume>0,5</volume>
+				<energy>40</energy>
+				<price>65</price>
+				<picture>https://static.tildacdn.com/tild3764-3033-4234-a664-366361633764/2.jpg</picture>
+			</product>
+			<product id="0231">
+				<category_id>3</category_id>
+				<name>Кока-Кола</name>
+				<volume>0,5</volume>
+				<energy>42</energy>
+				<price>85</price>
+				<picture>https://static.tildacdn.com/tild3063-6666-4165-b961-346434653933/WhatsApp_Image_2020-.jpeg</picture>
+			</product>
+			<product id="0241">
+				<category_id>3</category_id>
+				<name>Сок Палпи</name>
+				<volume>0,5</volume>
+				<energy>45</energy>
+				<price>85</price>
+				<picture>https://static.tildacdn.com/tild3662-3165-4432-b339-626431313161/WhatsApp_Image_2020-.jpeg</picture>
+			</product>
+			<product id="0261">
+				<category_id>3</category_id>
+				<name>Чай Липтон</name>
+				<volume>0,5</volume>
+				<energy>110</energy>
+				<price>85</price>
+				<picture>https://static.tildacdn.com/tild6532-6161-4335-a232-656165613532/WhatsApp_Image_2020-.jpeg</picture>
+			</product>
+			<product id="0211">
+				<category_id>3</category_id>
+				<name>Лимонад «Бавария» - Мохито</name>
+				<volume>0,5</volume>
+				<energy>35</energy>
+				<price>50</price>
+				<picture>https://static.tildacdn.com/tild6331-3961-4164-a566-346466666330/image.jpg</picture>
+			</product>
+			<product id="0212">
+				<category_id>3</category_id>
+				<name>Лимонад «Бавария» - Лимон</name>
+				<volume>0,5</volume>
+				<price>50</price>
+				<picture>https://static.tildacdn.com/tild3461-6336-4532-b064-343665353438/-----.jpg</picture>
+			</product>
+			<product id="0213">
+				<category_id>3</category_id>
+				<name>Лимонад «Бавария» - Питахайя</name>
+				<volume>0,5</volume>
+				<energy>35</energy>
+				<price>50</price>
+				<picture>https://static.tildacdn.com/tild3536-3961-4565-b562-313761343363/-----.jpg</picture>
+			</product>
+			<product id="0214">
+				<category_id>3</category_id>
+				<name>Лимонад «Бавария» - Тархун</name>
+				<volume>0,5</volume>
+				<energy>35</energy>
+				<price>50</price>
+				<picture>https://static.tildacdn.com/tild3139-3536-4462-a563-653735353233/-----.jpg</picture>
+			</product>
+			<product id="0215">
+				<category_id>3</category_id>
+				<name>Лимонад "Бавария" - Груша</name>
+				<volume>0,5</volume>
+				<energy>35</energy>
+				<price>50</price>
+				<picture>https://static.tildacdn.com/tild3031-6635-4339-b432-396362656135/001.jpg</picture>
+			</product>
+			<product id="0216">
+				<category_id>3</category_id>
+				<name>Лимонад «Бавария» - Апельсин</name>
+				<volume>0,5</volume>
+				<energy>35</energy>
+				<price>50</price>
+				<picture>https://static.tildacdn.com/tild3836-3937-4561-b739-613138326461/-----.jpg</picture>
+			</product>
+		</products>
+	</delivery_service>
+</dc_catalog>
